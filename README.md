@@ -15,7 +15,7 @@
 
 ## 💫 About Me
 
-I’m Rahul — a backend-centric developer from India 🇮🇳 who enjoys turning complex ideas into reliable systems. I spend most of my time building APIs, tightening security layers, and making sure backend services behave well under pressure.
+I’m Rahul — A Backend-centric developer from India who enjoys turning complex ideas into reliable systems. I spend most of my time building APIs, tightening security layers, and making sure backend services behave well under pressure.
 
 Whether it’s optimizing database queries, containerizing applications, or scaling services in the cloud, I like keeping things clean, efficient, and production-ready. I take engineering seriously, but a little humor in commit messages and debugging sessions keeps things interesting.
 

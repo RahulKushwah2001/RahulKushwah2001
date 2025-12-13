@@ -69,13 +69,10 @@ I focus on **performance optimization, security best practices, system design, a
 </p>
 
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://raw.githubusercontent.com/RahulKushwah2001/RahulKushwah2001/output/github-contribution-grid-snake-dark.svg)
 
----
 
 ### ✍️ Random Dev Quote
 
